@@ -44,8 +44,7 @@ mvn package
 ## Instantiate the API
 Run the jar file in the target directory.
 ```
-cd target
-jar -jar reserve-campspot-1.0.jar
+jar -jar target/reserve-campspot-1.0.jar
 ```
 
 ## Using the API
