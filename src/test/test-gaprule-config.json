@@ -1,0 +1,24 @@
+{
+  "campsites": [
+    {
+      "id": 1,
+      "gapRule": 1
+    },
+    {
+      "id": 2,
+      "gapRule": 1
+    },
+    {
+      "id": 3,
+      "gapRule": 1
+    },
+    {
+      "id": 4,
+      "gapRule": 1
+    },
+    {
+      "id": 5,
+      "gapRule": 1
+    }
+  ]
+}
